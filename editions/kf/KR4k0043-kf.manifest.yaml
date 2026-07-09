@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR4k0043/kf/v1
+canonical_location: https://kanripo.org/bkk/KR4k0043/kf/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4k0043_000-kf.yaml, hash: 'sha256:3a8213a06c9807c0a0d84f66aadbc0cd1f77bc4354a4475190e037345c42cf99'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4k0043_000-kf.markers.yaml, hash: 'sha256:4805af2bf04e5e02fb9016ea43d3ac86949b316da433b46fc80f25cc31b610ed'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4k0043_kf_000-h.1
+    span:
+    - body
+    - 0
+    - 332242
+  label: ''
+  type: section
+  level: 1
+metadata:
+  title: 初刻拍案驚奇
+  identifiers:
+    krp: KR4k0043
+  tags:
+    kr-categories: KR4k
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0043.xml
+  edition:
+    short: kf
+hash: sha256:e164dc77fcb834cc8305f1d6b8e4f336fe51cbe9bf924a7cc741698288d09f06
